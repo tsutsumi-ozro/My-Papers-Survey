@@ -43,6 +43,7 @@ categories:
 ### 論文サイト
 * [arXiv](https://arxiv.org/)
 * [Goggle Scholer](https://scholar.google.co.jp/schhp?hl=ja&as_sdt=0,5)
+* [言語処理学会](https://www.anlp.jp/guide/nenji.html)
 
 ### 論文まとめサイト
 * [arXivTimes](https://github.com/arXivTimes/arXivTimes)
