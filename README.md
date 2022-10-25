@@ -33,7 +33,11 @@ categories:
 ## 6. 今後の論点
 
 ```
-参考: [MachineLearning-Papers_Survey](https://github.com/Yagami360/machine-learning-papers-survey/blob/master/README.md), [arXivTimes](https://github.com/arXivTimes/arXivTimes)
+参考: [MachineLearning-Papers_Survey](https://github.com/Yagami360/machine-learning-papers-survey/blob/master/README.md), [arXivTimes](https://github.com/arXivTimes/arXivTimes)<br>
+
+※Notionから移行したものもはフォーマットが崩れている可能性があります.<br>
+[元のNotionページ](https://temporal-egret-78a.notion.site/Research-e0bc69dfdd044aa3b6107d616ea01f59)
+
 
 ---------------------------------------
 
