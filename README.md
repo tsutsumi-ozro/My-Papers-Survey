@@ -10,17 +10,12 @@
 
 # 論文要約フォーマット
 ```
-layout: post
-
-title:  "論文タイトル"
-
-date:   YYYY-MM-DD
-
-categories: 
-
 ## 0. 一言で言うと
 
 ## 1. info
+* 論文リンク　: 
+* 公開日時: 
+* 組織: 
 
 ## 2. 成果
 
