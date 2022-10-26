@@ -51,6 +51,7 @@
 ### 論文まとめサイト
 * [arXivTimes](https://github.com/arXivTimes/arXivTimes)
 * [MachineLearning-Papers_Survey](https://github.com/Yagami360/machine-learning-papers-survey)
+* [ステート・オブ・AIガイド](https://ja.stateofaiguides.com/welcome/)
 
 ### 論文読みTips
 * [機械学習の論文を探す場所まとめ @karaage0703](https://zenn.dev/karaage0703/articles/46806d77983b8a#%E8%AB%96%E6%96%87%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%82%8B)
