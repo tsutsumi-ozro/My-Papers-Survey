@@ -19,15 +19,17 @@
 * 公開日時 : 
 * 組織 : 
 
-## 2. 成果
 
-## 3. 目的
+## 2. 先行研究と比べてどこがすごいの？
 
-## 4. 他研究との相違点
+## 3. 技術や手法の"キモ"はどこにある？
 
-## 5. 実験・検証
+## 4. どうやって有効だと検証した？
 
-## 6. 今後の論点
+## 5. 議論はあるか？
+
+## 6. 次に読むべき論文はあるか？
+
 
 ```
 参考: [MachineLearning-Papers_Survey](https://github.com/Yagami360/machine-learning-papers-survey/blob/master/README.md), [arXivTimes](https://github.com/arXivTimes/arXivTimes)<br>
