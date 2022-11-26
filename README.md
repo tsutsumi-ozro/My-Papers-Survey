@@ -1,5 +1,7 @@
 # My-Papers-Survey
 
+# Notionに移行しました
+
 自分が読んだ論文をまとめるリポジトリです。<br>
 まとめた論文は[Issues](https://github.com/tsutsumi-ozro/My-Papers-Survey/issues)に記載しています。<br>
 正直、まとめというよりメモです。優しくしてください。
@@ -33,9 +35,6 @@
 
 ```
 参考: [MachineLearning-Papers_Survey](https://github.com/Yagami360/machine-learning-papers-survey/blob/master/README.md), [arXivTimes](https://github.com/arXivTimes/arXivTimes)<br>
-
-※Notionから移行したものもはフォーマットが崩れている可能性があります.<br>
-[元のNotionページ](https://temporal-egret-78a.notion.site/Research-e0bc69dfdd044aa3b6107d616ea01f59)
 
 
 ---------------------------------------
